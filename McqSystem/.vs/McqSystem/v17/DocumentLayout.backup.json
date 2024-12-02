@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Studing\\#3rd\\Enterprise\\McqSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8DE1C0-72F2-429B-94FF-8022C286ABA4}|..\\Datalayer\\Datalayer.csproj|e:\\studing\\#3rd\\enterprise\\datalayer\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Studing\\#3rd\\Enterprise\\Datalayer\\Model1.edmx",
+              "RelativeDocumentMoniker": "..\\Datalayer\\Model1.edmx",
+              "ToolTip": "E:\\Studing\\#3rd\\Enterprise\\Datalayer\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\Datalayer\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-01T19:15:46.201Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McqSystem", "McqSystem.csproj", "{D033302E-46E3-458D-AD29-0AD54A9B9112}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{195895F4-12A1-4D2E-97BE-717E2CAAC06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datalayer", "..\Datalayer\Datalayer.csproj", "{4D8DE1C0-72F2-429B-94FF-8022C286ABA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D033302E-46E3-458D-AD29-0AD54A9B9112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D033302E-46E3-458D-AD29-0AD54A9B9112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D033302E-46E3-458D-AD29-0AD54A9B9112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D033302E-46E3-458D-AD29-0AD54A9B9112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8DE1C0-72F2-429B-94FF-8022C286ABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8DE1C0-72F2-429B-94FF-8022C286ABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8DE1C0-72F2-429B-94FF-8022C286ABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8DE1C0-72F2-429B-94FF-8022C286ABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D8DE1C0-72F2-429B-94FF-8022C286ABA4} = {195895F4-12A1-4D2E-97BE-717E2CAAC06D}
+	EndGlobalSection
+EndGlobal
